@@ -156,3 +156,4 @@ User.prototype.changePostRating = function(id, newRating) {
     }
   }
 }
+

@@ -101,6 +101,7 @@ function counterFactory(value) {
     value++
     return value
   }
+  
   function dec (){
     value--
     return value
